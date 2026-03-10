@@ -3,7 +3,7 @@
 # Hi 👋 I'm Mohammadreza Gharahgozlee
 
 💻 Python Developer  
-📍 Gatineau, Canada  
+📍 Canada  
 
 I build Python applications including GUI tools, backend APIs, and data analysis projects.
 
