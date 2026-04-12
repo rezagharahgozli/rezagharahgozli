@@ -1,71 +1,62 @@
-## Hi there 👋
+Hi 👋 I'm Mohammadreza Gharahgozlee
 
-# Hi 👋 I'm Mohammadreza Gharahgozlee
+💻 Data Analyst | Python Developer
+📍 Canada
 
-💻 Python Developer  
-📍 Canada  
+I build data-driven applications and machine learning solutions, including predictive models, data pipelines, and backend APIs.
 
-I build Python applications including GUI tools, backend APIs, and data analysis projects.
+# 🔥 About Me
 
----
+I am a data-focused developer with strong experience in Python, data analysis, and machine learning.
+I enjoy transforming raw data into meaningful insights and building end-to-end data solutions.
 
-## Skills
+# 🧠 Core Skills
+Data Analysis & Visualization
+Machine Learning (Regression, Classification)
+Data Cleaning & Feature Engineering
+Backend Development (APIs)
+SQL & Database Design
+# 🛠️ Technologies & Tools
+## Programming
 
-Python  
-Flask  
-Tkinter  
-MySQL  
-MongoDB  
-JavaScript  
-HTML  
-CSS  
+Python, JavaScript, C# ,C++
 
-📊 Additional Skills
+## Data & ML
 
-Data Cleaning and Data Processing with Pandas
+Pandas, NumPy, Scikit-learn, Matplotlib
 
-Building RESTful APIs
+## Backend
 
-Working with JSON data
+Flask, FastAPI, Django
 
-Database design and queries
+## Databases
 
-GUI application development with Python
+MySQL, MongoDB, PostgreSQL
 
-## 🚀 Technologies & Tools
+## Frontend
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+HTML, CSS, Vue.js
 
-### Backend Development
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+## Tools
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+Git, GitHub, Docker
 
-### GUI Development
-![Tkinter](https://img.shields.io/badge/Tkinter-Python-blue?style=for-the-badge)
+## Cloud & Data Engineering
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+Azure, Apache Spark
 
-### Data Analysis & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Cloud & Data Engineering
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Spark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=apachespark)
+# 🚀 Highlight Projects
+## 📊 Fraud Detection System
+Built a machine learning model to detect fraudulent transactions with a Streamlit interface.
+## 📈 House Price Prediction
+End-to-end ML pipeline with feature engineering and hyperparameter tuning.
+## 📦 Inventory & Invoice Analysis
+Data analysis project using SQL and Pandas for business insights.
+## 🎯 Focus
+Data Science & Machine Learning
+Data Engineering
+Real-world ML applications
+# 📫 Contact
+ E-Mail: Rezagharahgozlee@outlook.com
+📍 Canada
+💻 GitHub: https://github.com/rezagharahgozli
