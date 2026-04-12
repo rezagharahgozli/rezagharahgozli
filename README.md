@@ -20,11 +20,11 @@ SQL & Database Design
 # 🛠️ Technologies & Tools
 ## Programming
 
-Python, JavaScript, C# ,C++
+Python, JavaScript, C#, C++, Visual Basic 
 
 ## Data & ML
 
-Pandas, NumPy, Scikit-learn, Matplotlib
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib, XGBoost, Scipy, Jupiter
 
 ## Backend
 
@@ -32,7 +32,7 @@ Flask, FastAPI, Django
 
 ## Databases
 
-MySQL, MongoDB, PostgreSQL
+MySQL, MongoDB, PostgreSQL, MSSQL, ORACAL, 
 
 ## Frontend
 
@@ -40,11 +40,18 @@ HTML, CSS, Vue.js
 
 ## Tools
 
-Git, GitHub, Docker
+Git, GitHub, Docker, Postman,
 
 ## Cloud & Data Engineering
 
-Azure, Apache Spark
+Azure, Apache Spark, Power BI
+
+## Concepts & Methodologies
+Machine Learning, Data Analysis & Data Cleaning, ETL / ELT Pipelines, REST APIs, Authentication & Security,
+Design Patterns, OOP / MVC / CRUD, Agile / Scrum
+
+## Testing & Automation
+Pytest
 
 # 🚀 Highlight Projects
 ## 📊 Fraud Detection System
@@ -57,6 +64,8 @@ Data analysis project using SQL and Pandas for business insights.
 Data Science & Machine Learning
 Data Engineering
 Real-world ML applications
+Data Analysis & BI Dashboard Projects
+
 # 📫 Contact
  E-Mail: Rezagharahgozlee@outlook.com
 📍 Canada
