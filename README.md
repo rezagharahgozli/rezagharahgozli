@@ -1,60 +1,34 @@
-# **Hi** 
-# **I'm Mohammadreza Gharahgozlee**
+# Mohammadreza Gharahgozlee
+Data Analyst | Python Developer | Machine Learning
+Canada
 
-💻 Data Analyst | Python Developer
-📍 Canada
+I build data-driven systems, machine learning models, and backend APIs, turning raw data into production-ready solutions.
 
-I build data-driven applications and machine learning solutions, including predictive models, data pipelines, and backend APIs.
+### About
+Data-focused developer with strong experience in Python, data analysis, and machine learning.
+Skilled in building end-to-end pipelines, from data collection and cleaning to modeling and deployment.
 
-#  About Me
-
-I am a data-focused developer with strong experience in Python, data analysis, and machine learning.
-I enjoy transforming raw data into meaningful insights and building end-to-end data solutions.
-
-#  Core Skills
-Data Analysis & Visualization
+### Core Skills
+Data Analysis and Visualization
 Machine Learning (Regression, Classification)
-Data Cleaning & Feature Engineering
-Backend Development (APIs)
-SQL & Database Design
-#  Technologies & Tools
-## Programming
-
-Python, JavaScript, C#, C++, Visual Basic 
-
-## Data & ML
-
-Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib, XGBoost, Scipy, Jupiter
-
-## Backend
-
+Feature Engineering and Data Cleaning
+REST API Development
+SQL and Database Design
+### Tech Stack
+Python, JavaScript
+Pandas, NumPy, Scikit-learn, XGBoost
 Flask, FastAPI, Django
+PostgreSQL, MySQL, MongoDB
+Git, Docker, Postman
+Azure, Spark, Power BI
 
-## Databases
+### Concepts
+ETL / ELT Pipelines, Machine Learning Pipelines
+OOP, MVC, REST APIs
+Authentication and Security
+Agile / Scrum
 
-MySQL, MongoDB, PostgreSQL, MSSQL, ORACAL, 
+### Contact
 
-## Frontend
-
-HTML, CSS, Vue.js
-
-## Tools
-
-Git, GitHub, Docker, Postman,
-
-## Cloud & Data Engineering
-
-Azure, Apache Spark, Power BI
-
-## Concepts & Methodologies
-Machine Learning, Data Analysis & Data Cleaning, ETL / ELT Pipelines, REST APIs, Authentication & Security,
-Design Patterns, OOP / MVC / CRUD, Agile / Scrum
-
-## Testing & Automation
-Pytest
-
-
-#  Contact
- E-Mail: Rezagharahgozlee@outlook.com
-📍 Canada
-💻 GitHub: https://github.com/rezagharahgozli
+Email: Rezagharahgozlee@outlook.com
+GitHub: https://github.com/rezagharahgozli
